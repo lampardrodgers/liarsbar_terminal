@@ -21,7 +21,7 @@ from typing import Dict, List, Optional, Sequence
 
 RANKS: Sequence[str] = ("Q", "K", "A")
 DISPLAY_RANKS: Sequence[str] = ("Q", "K", "A", "Joker")
-BOT_NAMES: Sequence[str] = ("Bot-阿酒", "Bot-贝贝", "Bot-川川")
+BOT_NAMES: Sequence[str] = ("Bot-GPT", "Bot-GEMINI", "Bot-DEEPSEEK")
 HAND_SIZE = 5
 DEFAULT_DELAY = 1.0
 
